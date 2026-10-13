@@ -1,16 +1,16 @@
 # Advanced Business Development with .NET
-## Aula 02 de 04: Paginação, Ordenação e Filtros Avançados em APIs RESTful com MongoDB Atlas
+## Aula 03 de 04: HATEOAS e Navegabilidade no Nível 3 da Maturidade RESTful
 
-Este repositório contém o código-fonte desenvolvido na Aula 02 da série de 4 aulas práticas da disciplina de Advanced Business Development with .NET. O objetivo principal desta segunda etapa é evoluir a nossa Minimal API para suportar consultas otimizadas e de alta performance no MongoDB Atlas, implementando paginação no servidor, ordenação flexível e filtros dinâmicos encapsulados em DTOs reutilizáveis.
+Este repositório contém o código-fonte desenvolvido na Aula 03 da série de 4 aulas práticas da disciplina de Advanced Business Development with .NET. O objetivo principal desta terceira etapa é elevar o nível de maturidade da nossa API para o Nível 3 do Modelo de Richardson, incorporando HATEOAS (Hypermedia As The Engine Of Application State) para auto-explicabilidade e navegabilidade dinâmica dos recursos.
 
 ---
 
-### 📌 Tópicos Abordados na Aula 02
-- Paginação Server-Side: Uso dos métodos `.Skip()` e `.Limit()` do driver oficial do MongoDB para fatiar dados diretamente no banco de dados.
-- Envelope de Resposta (`PagedResult<T>`): Criação de um DTO genérico imutável para entregar a lista de dados acompanhada de metadados (`TotalRegistros`, `TotalPaginas`, `PaginaAtual`).
-- Filtros Dinâmicos: Construção de consultas flexíveis com `Builders<T>.Filter`, suporte a busca insensível a maiúsculas/minúsculas (`Regex`) e faixas de valores (`Gte`, `Lte`).
-- Ordenação Dinâmica: Aplicação de critérios de ordenação ascendente e descendente via `Builders<T>.Sort`.
-- Desestruturação de Query Strings: Uso do atributo `[AsParameters]` do ASP.NET Core para mapear múltiplos parâmetros da URL direto para um `record`.
+### 📌 Tópicos Abordados na Aula 03
+- Modelo de Maturidade de Richardson: Compreensão dos 4 níveis (0 a 3) e o papel do HATEOAS no Nível 3.
+- Objeto de Hiperlinks (`LinkDto`): Estruturação de relações de navegação com `href`, `rel` e `method`.
+- Resource Envelope (`ResourceEnvelope<T>`): Padronização de respostas unindo o payload de dados aos seus respectivos links de ação.
+- Navegabilidade em Paginação: Links dinâmicos de paginação (`first`, `previous`, `next`, `last`) baseados no estado atual da consulta.
+- Contexto de Requisição (`HttpContext`): Geração dinâmica de URIs absolutas a partir da requisição HTTP ativa.
 
 ---
 
@@ -22,6 +22,8 @@ Este repositório contém o código-fonte desenvolvido na Aula 02 da série de 4
       - Produto.cs
       - IProdutoRepositorio.cs
     - Dtos/
+      - LinkDto.cs
+      - ResourceEnvelope.cs
       - PagedResult.cs
       - ProdutoFiltroRequest.cs
     - Infraestrutura/
@@ -41,10 +43,10 @@ Este repositório contém o código-fonte desenvolvido na Aula 02 da série de 4
 
 ---
 
-### 🗺️️ Próximas Aulas do Módulo (2 de 4)
+### 🗺️ Próximas Aulas do Módulo
 - Aula 01: Persistência NoSQL com MongoDB Atlas e Padrão Repository.
-- Aula 02 [Atual]: Paginação, Ordenação e Filtros Avançados em APIs RESTful.
-- Aula 03: HATEOAS e Navegabilidade no Nível 3 da Maturidade RESTful.
+- Aula 02: Paginação, Ordenação e Filtros Avançados em APIs RESTful.
+- Aula 03 [Atual]: HATEOAS e Navegabilidade no Nível 3 da Maturidade RESTful.
 - Aula 04: Segurança, Autenticação e Autorização com JWT e Swagger.
 
 ---
