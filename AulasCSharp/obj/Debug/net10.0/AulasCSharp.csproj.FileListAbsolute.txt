@@ -1,0 +1,129 @@
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.csproj.AssemblyReference.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.AssemblyInfoInputs.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.AssemblyInfo.cs
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.csproj.CoreCompileInputs.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\appsettings.Development.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\appsettings.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\AulasCSharp.staticwebassets.endpoints.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\AulasCSharp.exe
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\AulasCSharp.deps.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\AulasCSharp.runtimeconfig.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\AulasCSharp.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\AulasCSharp.pdb
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\DnsClient.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\SharpCompress.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\Snappier.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\bin\Debug\net10.0\ZstdSharp.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\scopedcss\bundle\AulasCSharp.styles.css
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSh.7588E729.Up2Date
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\refint\AulasCSharp.dll
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.pdb
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\AulasCSharp.genruntimeconfig.cache
+C:\Prof. Alex\FIAP\AulasCSharp\AulasCSharp\AulasCSharp\obj\Debug\net10.0\ref\AulasCSharp.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.csproj.AssemblyReference.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.AssemblyInfoInputs.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.AssemblyInfo.cs
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.csproj.CoreCompileInputs.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.MvcApplicationPartsAssemblyInfo.cs
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.MvcApplicationPartsAssemblyInfo.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\refint\AulasCSharp.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.pdb
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\appsettings.Development.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\appsettings.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\AulasCSharp.staticwebassets.endpoints.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\AulasCSharp.exe
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\AulasCSharp.deps.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\AulasCSharp.runtimeconfig.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\AulasCSharp.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\AulasCSharp.pdb
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\DnsClient.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\SharpCompress.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\Snappier.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\bin\Debug\net10.0\ZstdSharp.dll
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\scopedcss\bundle\AulasCSharp.styles.css
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\staticwebassets.development.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\swae.build.ex.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSh.7588E729.Up2Date
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\AulasCSharp.genruntimeconfig.cache
+D:\alex\csharp_mongoDB_2026_paginacao\AulasCSharp\obj\Debug\net10.0\ref\AulasCSharp.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\appsettings.Development.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\appsettings.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\AulasCSharp.staticwebassets.endpoints.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\AulasCSharp.exe
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\AulasCSharp.deps.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\AulasCSharp.runtimeconfig.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\AulasCSharp.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\AulasCSharp.pdb
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\DnsClient.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\SharpCompress.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\Snappier.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\bin\Debug\net10.0\ZstdSharp.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.csproj.AssemblyReference.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.AssemblyInfoInputs.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.AssemblyInfo.cs
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.csproj.CoreCompileInputs.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\scopedcss\bundle\AulasCSharp.styles.css
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSh.7588E729.Up2Date
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\refint\AulasCSharp.dll
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.pdb
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\AulasCSharp.genruntimeconfig.cache
+C:\Prof. Alex\csharp_mongoDB_2026_HATEOAS\AulasCSharp\obj\Debug\net10.0\ref\AulasCSharp.dll
